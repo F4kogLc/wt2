@@ -4,3 +4,4 @@ wild terra 2 dump
 - __[все петы и их перки](https://github.com/F4kogLc/wt2/blob/main/PETS.md)__
 - __[кулдауны всех мобов](https://github.com/F4kogLc/wt2/blob/main/COOLDOWNS.md)__
 - __[формулы](https://github.com/F4kogLc/wt2/blob/main/FORMULAS.md)__
+- __[дропы, проценты](https://github.com/F4kogLc/wt2/blob/main/DROPS.md)__
