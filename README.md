@@ -6,4 +6,3 @@ wild terra 2 dump
 - __[формулы](https://github.com/F4kogLc/wt2/blob/main/FORMULAS.md)__
 - __[дропы, проценты](https://github.com/F4kogLc/wt2/blob/main/DROPS.md)__
 - __[бафы](https://github.com/F4kogLc/wt2/blob/main/BUFFS.md)__
-- 
